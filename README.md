@@ -1,3 +1,4 @@
+# --- Cloned from source ---
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
